@@ -1,0 +1,17 @@
+body {
+  font-family: system-ui;
+  background: white;
+  color: navy;
+  text-align: left;
+}
+.div-1 {
+  background-color: navy;
+  color: white;
+}
+
+.div-2 {
+  height: 200px;
+  margin: 20px;
+  border: 5px solid;
+  background-color: grey;
+}
